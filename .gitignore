@@ -5,3 +5,4 @@ dist/
 data/
 *.egg-info/
 *.egg
+*.pyc
